@@ -82,3 +82,5 @@ Know about my experiences [here](https://drive.google.com/file/d/1rVk1fKX_ND0Wao
 ![Snake animation](https://raw.githubusercontent.com/lghuy05/lghuy05/main/github-contribution-grid-snake-dark.svg)
 
 ###
+
+*This profile layout is custom-designed. Feel free to get inspired, but please don't copy directly without asking!*
