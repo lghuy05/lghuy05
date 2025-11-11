@@ -1,0 +1,41 @@
+name: Generate Snake Animation
+
+on:
+  # Run daily at 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Allow manual triggers
+  workflow_dispatch:
+  
+  # Run on push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      # Step 2: Generate the snake animation
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: lghuy05
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+          
+      # Step 3: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          keep_files: false
