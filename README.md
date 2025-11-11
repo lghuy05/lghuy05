@@ -79,6 +79,6 @@ Know about my experiences [here](https://drive.google.com/file/d/1rVk1fKX_ND0Wao
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/lghuy05/lghuy05/main/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/lghuy05/lghuy05/main/github-contribution-grid-snake-dark.svg)
 
 ###
