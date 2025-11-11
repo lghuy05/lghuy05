@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW8ybHk5ZG9sbWNiejZ3cnh3NHAzZ2IzZHRtdDI5MDdjMG1pY3UxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="Coding GIF" />
 
 ###
 
@@ -79,6 +79,6 @@ Know about my experiences [here](https://drive.google.com/file/d/1rVk1fKX_ND0Wao
 
 <br clear="both">
 
-<img src="https://github.com/lghuy05/lghuy05/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
