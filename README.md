@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Huy Luong and I'm a prospective and passionate software engineer, from Vietnam</h2>
+<h2 align="left">Hi 👋! My name is Huy Luong and I'm a prospective and passionate software engineer</h2>
 
 ###
 
