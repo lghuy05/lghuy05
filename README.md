@@ -79,6 +79,6 @@ Know about my experiences [here](https://drive.google.com/file/d/1rVk1fKX_ND0Wao
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/lghuy05/lghuy05/output/github-snake.svg)
 
 ###
