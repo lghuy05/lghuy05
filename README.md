@@ -79,7 +79,7 @@ Know about my experiences [here](https://drive.google.com/file/d/1rVk1fKX_ND0Wao
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/lghuy05/lghuy05/output/github-contribution-grid-snake.svg)
+![Snake dark](https://raw.githubusercontent.com/lghuy05/lghuy05/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
