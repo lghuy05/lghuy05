@@ -69,7 +69,7 @@
 - **React, Docker, AWS, FastAPI**
 
 ## 👨‍💻 Projects
-All of my projects are available at [https://github.com/lghuy05](https://github.com/lghuy05)
+All of my projects are available at [my repositories](https://github.com/lghuy05?tab=repositories)
 
 ## 📄 Resume
 Know about my experiences [here](https://drive.google.com/file/d/1V8ME2VromwEIp_xGTXg3hB5QsHMlevzo/view?usp=sharing)
