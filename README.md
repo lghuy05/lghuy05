@@ -66,7 +66,7 @@
 ###
 
 ## 🌱 Currently Learning
-- **React, Docker, AWS, FastAPI**
+- **React, Docker, AWS, FastAPI, PyTorch, Linux**
 
 ## 👨‍💻 Projects
 All of my projects are available at [my repositories](https://github.com/lghuy05?tab=repositories)
