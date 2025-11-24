@@ -72,7 +72,7 @@
 All of my projects are available at [my repositories](https://github.com/lghuy05?tab=repositories)
 
 ## 📄 Resume
-Know about my experiences [here](https://drive.google.com/file/d/1esQpDDigeqIs7RIPiFPR2Dhi0gHSO1nM/view)
+Know about my experiences [here](https://drive.google.com/file/d/1TtX6lt15o9SdGSH6e9Ol_OkxKQZzjG9p/view?usp=sharing)
 
 ## ⚡ Fun Fact
 **I use Arch**
