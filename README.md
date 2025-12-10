@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is Huy Luong and I'm a prospective and passionate software engineer</h2>
 
 ###
 
@@ -64,12 +63,6 @@
 </div>
 
 ###
-
-## 🌱 Currently Learning
-- **Linux, Operating System, PyTorch**
-
-## 👨‍💻 Projects
-All of my projects are available at [my repositories](https://github.com/lghuy05?tab=repositories)
 
 
 ## ⚡ Fun Fact
