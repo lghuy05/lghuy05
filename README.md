@@ -1,5 +1,5 @@
 
-**I use Arch**
+**I specialize in backend and infra. System programming is my hobby and I use Arch btw**
 
 <br clear="both">
 
