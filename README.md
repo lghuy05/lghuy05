@@ -1,5 +1,5 @@
 
-**I specialize in backend development(Golang, Rust), specifically distributed system. System programming is my hobby and I use NixOS btw**
+**I specialize in backend development(Golang, Rust), specifically distributed system
 
 **swe intern at @VNG**
 
