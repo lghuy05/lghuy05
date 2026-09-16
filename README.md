@@ -1,7 +1,9 @@
 
 **I specialize in backend development(Golang, Rust), specifically distributed system
 
-**swe intern at @VNG**
+**swe intern at PX System, Inc**
+
+**ex swe intern at @VNG**
 
 **feel free to reach out:** luonggiahuy1909@gmail.com
 
