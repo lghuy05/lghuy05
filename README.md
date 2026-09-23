@@ -1,5 +1,5 @@
 
-**I specialize in backend development, specifically distributed system
+**I specialize in backend development, specifically distributed system**
 
 **swe intern @PX Systems, Inc**
 
