@@ -3,7 +3,7 @@
 
 **incoming swe intern @Microsoft**
 
-**swe intern @PX Systems, Inc/ VNG**
+**swe intern @PX Systems @VNG**
 
 **feel free to reach out:** luonggiahuy1909@gmail.com
 
