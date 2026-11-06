@@ -1,9 +1,9 @@
 
 **I specialize in backend development, specifically distributed system**
 
-**swe intern @PX Systems, Inc**
+**incoming swe intern @Microsoft**
 
-**ex swe intern @VNG**
+**swe intern @PX Systems, Inc/ VNG**
 
 **feel free to reach out:** luonggiahuy1909@gmail.com
 
